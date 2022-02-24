@@ -36,7 +36,7 @@
 //             case '-':
 //                 displayValue = storedValue - displayValue;
 //                 break;
-//             case 'x':
+//             case '*':
 //                 displayValue = storedValue * displayValue;
 //                 break;
 //             case '/':

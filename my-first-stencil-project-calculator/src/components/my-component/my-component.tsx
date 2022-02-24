@@ -36,7 +36,6 @@ export class MyComponent {
         <div class="current-result">n</div>
       </div>
       <div class="output">
-     
             <button class="span-two-buttons">AC</button>
             <button>DEL</button>
             <button>/</button>
@@ -55,7 +54,6 @@ export class MyComponent {
             <button>,</button>
             <button>0</button>
             <button class="span-two-buttons">=</button>
-
     </div>
     </div>
     </div>
